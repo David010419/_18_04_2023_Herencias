@@ -25,10 +25,6 @@ public class Figura {
     }
 
 
-
-
-
-
     //Setters y getters
 
 
